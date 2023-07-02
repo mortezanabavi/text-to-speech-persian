@@ -15,7 +15,7 @@ def TextToSpeech():
         'Sec-Fetch-Site': 'same-site',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
         'X-Requested-With': 'XMLHttpRequest',
-        'authorization': F'Bearer {TOKEN}',
+        'authorization': f'Bearer {TOKEN}',
         'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"Windows"',
