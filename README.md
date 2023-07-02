@@ -1,2 +1,2 @@
 # text-to-speech-persian
-Text to speech using Igap messenger
+Text to speech using IGAP messenger
